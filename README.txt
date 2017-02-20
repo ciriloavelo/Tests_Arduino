@@ -14,3 +14,8 @@ Configuration de l'adresse MAC et forçage de l'adresse IP
 DHTEthernetCRO.ino
 HW Arduino Uno R3, Ethernet shield v2, Grove base shield, Temp and Moisture sensor pro
 Lecture de la mesure de température et humidité à l'adresse http://192.168.0.25
+
+3eme essai
+DHTEthernetCRO.ino
+HW Arduino Uno R3, Ethernet shield v2, Grove base shield, Temp and Moisture sensor pro
+Lecture de la mesure de température et humidité à l'adresse donnée par DHCP: Permet de lire la mesure depuis internet.

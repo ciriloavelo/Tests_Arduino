@@ -24,7 +24,7 @@
 // Enter a MAC address and IP address for your controller below.
 // The IP address will be dependent on your local network:
 byte mac[] = {0x90, 0xA2, 0xDA, 0x10, 0xDE, 0x1C};
-byte ip[] = {192, 168, 0, 25};
+//byte ip[] = {192, 168, 0, 25};
 //IPAddress ip(192,168,0,25);
 //byte gateway[] = {192,168,0,254};
 //IPAddress gateway(192,168,0,254);
